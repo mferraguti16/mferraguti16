@@ -1,7 +1,17 @@
-- 👋 Hi, I’m Mathilde Ferraguti (2-r-1-t).
-- 👀 I’m interested in back-end development and computer science.
-- 🌱 I’m currently learning JavaScript, TypeScript, Vue.js.
-- 💞️ I’m looking to collaborate on back-end development projects, mobile game apps, iOS app development, and anything that helps me learn and grow. 💞️
-- 📫 How to reach me mathilde.ferraguti@hotmail.fr
+👋 Hi, I'm Mathilde Ferraguti! A junior web & software developer.
 
-![Description du GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzI5d3p3Yms2amZncWFpc3hvOTZvZ21iMnVsNTllemJ0bjFzbHo3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55bM8mirLn2zC/giphy.gif)
+Preferred stack for web development:
+Back-end: TypeScript, Node.js, Express, and MySQL/PostgreSQL
+Front-end: Vue.js
+
+Preferred stack for software development:
+C, Bash, and Python. 
+
+![TypeScript](assets/icons/typescript.png)
+![Node.js](assets/icons/nodejs.png)
+![Vue.js](assets/icons/vuejs.png)
+![MySQL](assets/icons/mysql.png)
+![PostgreSQL](assets/icons/postgresql.png)
+![C](assets/icons/c.png)
+![Bash](assets/icons/bash.png)
+![Python](assets/icons/python.png)
